@@ -1,0 +1,5 @@
+# Ignore Books
+/Books/*
+
+# Ignore Assignments
+/Assignments/*
