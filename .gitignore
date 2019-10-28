@@ -2,4 +2,4 @@
 /Books/*
 
 # Ignore Assignments
-/Assignments/*
+#/Assignments/*
